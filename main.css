@@ -1,0 +1,212 @@
+
+
+body {
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: url(img/820842.png) no-repeat fixed;
+    padding: 0;
+    margin: 0;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    
+}
+
+.all {
+    min-height: 100vh;
+    
+    position: relative;
+}
+
+
+
+#socials { 
+    border-radius: 50%;
+    border-right: 20px solid rgba(0, 0, 0, 0.5);
+    border-bottom: 20px solid rgba(0, 0, 0, 0.5);
+    display: inline-block;
+    height: 120px;
+    width: 120px;    
+}
+
+ul{
+    list-style-type: none;
+}
+
+.socialIcon1{
+    height: 35px;
+    width: 35px;
+    top: 23px;
+    left: 106px;
+    position: absolute;
+
+}
+
+.socialIcon2{
+    height: 35px;
+    width: 35px;
+    top: 72px;
+    left: 110px;
+    position: absolute;
+}
+
+
+.socialIcon3{
+    height: 35px;
+    width: 35px;
+    top: 110px;
+    left: 72px;
+    position: absolute;
+}
+
+
+.socialIcon4{
+    height: 35px;
+    width: 60px;
+    top: 103px;
+    left: 8px;
+    position: absolute;
+}
+
+.logo {
+    height: 400px;
+    width: 480px;
+    left: 59%;
+    top: -60px;
+    position: absolute;
+}
+/*--------------------------------------------------------*/
+
+a {
+    color: white;
+}
+
+.news {
+    background-color: transparent;
+   position: absolute;
+   transform: rotate(45deg);
+  font-size: 1.3em;
+  top: 100px;
+  right: 80px;
+  
+
+}
+
+.merch {
+    background-color: transparent;
+    position: absolute;
+    transform: rotate(45deg);
+   font-size: 1.3em;
+   top: 300px;
+   right: 80px;
+}
+
+.char {
+    background-color: transparent;
+    position: absolute;
+    transform: rotate(45deg);
+   font-size: 1.3em;
+   top: 500px;
+   right: 80px;
+}
+
+.up {
+    background-color: transparent;
+    position: absolute;
+    transform: rotate(45deg);
+   font-size: 1.3em;
+   top: 700px;
+   right: 80px;
+}
+
+.box {
+    position: absolute;
+    height: 9em;
+    transform: rotate(45deg);
+    top: 40px;
+    right: 10px;
+}
+
+.box2 {
+    position: absolute;
+    height: 9em;
+    transform: rotate(45deg);
+    top: 265px;
+   right: 10px;
+}
+
+.box3 {
+    position: absolute;
+    height: 9em;
+    transform: rotate(45deg);
+    top: 460px;
+    right: 10px;
+}
+
+.box4 {
+    position: absolute;
+    height: 9em;
+    transform: rotate(45deg);
+    top: 650px;
+    right: 10px;
+}
+
+.video {
+    position: absolute;
+    top: 40%;
+    left: 61%;
+    height: 400px;
+    width: 400px;
+}
+
+.info {
+    position: absolute;
+    top: 80%;
+    left: 58%;
+    font-size: 1em;
+    color: white;
+    width: 500px;
+    text-align: center;
+}
+
+.sneak {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    height: 2.7em;
+    border-radius: 50%;
+    transform: rotate(-25deg);
+}
+
+
+.foot{
+    text-align: center;
+   height: 200px;
+   width: 100%;
+   
+   
+   bottom: -250px;
+  position: absolute;
+   overflow: hidden;
+}
+
+
+
+
+
+.ps4 {
+    height: 120px;
+    width: 150px;
+}
+
+.atlus {
+    height: 120px;
+    width: 150px;
+}
+
+a:hover {
+
+    color: black;
+}
+
